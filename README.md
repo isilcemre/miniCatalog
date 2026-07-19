@@ -64,5 +64,4 @@ minicatalog, bir ürün kataloğunu listeleyip kullanıcının favori ürün ekl
 <img width="250" alt="cart" src="https://github.com/user-attachments/assets/c0aa7700-2d85-4732-bd3e-29f7a0f4c5f6" />
 <br>
 <img width="250" alt="siparisinizAlinmistir" src="https://github.com/user-attachments/assets/b0712bb4-535b-4660-aa02-eb02b79bfa4c" />
-<br>
-<img width="250" alt="siparisinizAlinmistir" src="https://github.com/user-attachments/assets/39c8f561-fbc5-4225-a3e1-0642934aedd1" />
+
